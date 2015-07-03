@@ -1,0 +1,8 @@
+/target/
+/.settings/
+.classpath
+.project
+/jboss-6.1.0.Final/
+derby.log
+/jboss-as-distribution-6.1.0.Final.zip/
+jboss.identity
