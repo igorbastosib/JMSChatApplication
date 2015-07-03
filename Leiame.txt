@@ -1,0 +1,7 @@
+Baixe o JBoss AS 6.1.0 Final neste link: http://download.jboss.org/jbossas/6.1/jboss-as-distribution-6.1.0.Final.zip
+Copiei o arquivo 'hornetq-jms.xml' que está na pasta do projeto, copiei para '.\jboss-6.1.0.Final\server\default\deploy\hornetq'
+
+Configure o JBoss desta forma: http://javahonk.com/configure-jboss-application-server-eclipse/
+
+É necessário que o projeto esteja com a Lib do JBoss:
+Clique com botão direito no Projeto, vá em Build Path->AddLibraries->Server Runtime, selecione o JBoss 6.1.0
